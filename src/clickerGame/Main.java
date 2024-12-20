@@ -1,12 +1,12 @@
 
 package clickerGame;
 
-	import java.awt.*;
-	import javax.swing.*;
-	import java.awt.event.*;
-	import java.sql.PreparedStatement;
-	import java.util.*;
-	import javax.swing.GroupLayout.Alignment;
+import java.awt.*;
+import javax.swing.*;
+import java.awt.event.*;
+import java.sql.PreparedStatement;
+import java.util.*;
+import javax.swing.GroupLayout.Alignment;
 import javax.swing.LayoutStyle.ComponentPlacement;
 import javax.swing.Timer;
 import java.io.*;
